@@ -1,0 +1,6 @@
+framework module Pods_GiaoDich {
+  umbrella header "Pods-GiaoDich-umbrella.h"
+
+  export *
+  module * { export * }
+}
